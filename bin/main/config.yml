@@ -1,0 +1,14 @@
+# example configuration
+#gamerules:
+#  world:
+#    doDaylightCycle: true
+#    doFireTick: true
+#    keepInventory: true
+#  world_nether:
+#    doDaylightCycle: true
+#    doFireTick: false
+#    keepInventory: false
+#  world_the_end:
+#    doDaylightCycle: true
+#    doFireTick: false
+#    keepInventory: false

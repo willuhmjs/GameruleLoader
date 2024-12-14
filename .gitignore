@@ -1,0 +1,44 @@
+# Java bytecode
+*.class
+
+# Maven and Gradle directories (build automation tools)
+target/
+build/
+.gradle
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# NetBeans files
+nbproject/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Compiled JAR files (typically the output of your build process)
+*.jar
+
+# Dependency folders (if you use Maven, Gradle, or similar)
+lib/
+libs/
+
+# Maven local repository (if applicable)
+.m2/
+
+# Gradle wrapper files (if using Gradle)
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Minecraft plugin-specific settings (sometimes plugins generate these files)
+/plugins/

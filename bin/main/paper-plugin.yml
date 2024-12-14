@@ -1,0 +1,4 @@
+name: GameruleLoader
+version: '1.0'
+main: com.willuhmjs.gameruleLoader.GameruleLoader
+api-version: '1.21'
